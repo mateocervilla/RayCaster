@@ -1,6 +1,8 @@
 # Ray Caster
 A simple C++ + SFML ray caster implementation
 
+![rayCaster](https://github.com/mateocervilla/RayCaster/assets/68401037/24d37705-8452-4a2f-bd1f-d1f56c6261d2)
+
 ## Table of contents
 * [Requirements](#requirements)
 * [Build](#build)
